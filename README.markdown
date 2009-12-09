@@ -14,6 +14,35 @@ Insert the following line at the end of ~/.bash_profile
     
     source ~/terminal/all.sh
 
+Usage
+-----
+
+Shell commands
+
+    $ l   (ls -aFhlG')
+    $ ..  (cd ..)
+    $ ... (cd ../..)
+    $ nt  (new tab in current dir)
+    $ c   (clear)
+    $ p   (pwd)
+    
+Git commands
+
+    $ gp  (git pull)
+    $ gu  (git push)
+    $ gpp (git pull && git push)
+    
+Rails commands
+
+    $ ss (script/server --debugger)
+    $ sc (script/console --debugger)
+    $ styles (cd public/stylesheets)
+    $ rt (rake test)
+    $ rtu (rake test:units)
+    $ rtf (rake test:functionals)
+    $ rtu (rake test:units)
+    
+
 Contributors
 ------------
 
