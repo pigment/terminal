@@ -40,7 +40,7 @@ Rails commands
     $ rt (rake test)
     $ rtu (rake test:units)
     $ rtf (rake test:functionals)
-    
+    $ rtc (rake test:features)
 
 Contributors
 ------------
