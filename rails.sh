@@ -1,0 +1,7 @@
+alias ss='script/server --debugger'
+alias sc='script/console --debugger'
+alias styles='cd public/stylesheets'
+alias rt='rake test'
+alias rtu='rake test:units'
+alias rtf='rake test:functionals'
+alias rtu='rake test:units'
