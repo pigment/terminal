@@ -50,5 +50,5 @@ Contributors
 [Simon Jamie](http://github.com/fingermouse)
 [Sam Oliver](http://github.com/samoli)
 
-Released under the MIT licence
+(c) [Pigment](http://www.thinkpigment.com) Released under the MIT license
     
