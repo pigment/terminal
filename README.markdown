@@ -8,10 +8,17 @@ Installation
 
 Clone in to your home directory
     
-    git clone git://github.com/pigment/terminal.git
+    $ cd
+    $ git clone git://github.com/pigment/terminal.git
 
-Insert the following line at the end of ~/.bash_profile
+Edit ~/.bash_profile
+
+    $ mate ~/bash_profile
+      OR maybe
+    $ nano ~/bash_profile
     
+Add this line at the end
+
     source ~/terminal/all.sh
 
 Usage
