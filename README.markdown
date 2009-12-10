@@ -13,11 +13,15 @@ Clone in to your home directory
 
 Edit ~/.bash_profile
 
+If you use textmate:
+
     $ mate ~/bash_profile
-      OR maybe
+
+Otherwise:
+
     $ nano ~/bash_profile
     
-Add this line at the end
+Now add this line at the end:
 
     source ~/terminal/all.sh
 
