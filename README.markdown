@@ -41,7 +41,7 @@ Rails commands
     $ rtu (rake test:units)
     $ rtf (rake test:functionals)
     $ rtu (rake test:units)
-    
+    $ cuke (cucumber)
 
 Contributors
 ------------
@@ -51,5 +51,5 @@ Contributors
 [Simon Jamie](http://github.com/fingermouse)
 [Sam Oliver](http://github.com/samoli)
 
-Released under the MIT licence
+Released under the MIT license
     
