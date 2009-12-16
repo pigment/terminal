@@ -8,11 +8,22 @@ Installation
 
 Clone in to your home directory
     
-    git clone git://github.com/pigment/terminal.git
+    $ cd
+    $ git clone git://github.com/pigment/terminal.git
 
-Insert the following line at the end of ~/.bash_profile
+Edit ~/.bash_profile - If you use textmate:
+
+    $ mate ~/.bash_profile
+
+Otherwise:
+
+    $ nano ~/.bash_profile
     
+Now add this line at the end and save:
+
     source ~/terminal/all.sh
+
+Restart your terminal to activate changes.
 
 Usage
 -----
@@ -51,5 +62,5 @@ Contributors
 [Simon Jamie](http://github.com/fingermouse)
 [Sam Oliver](http://github.com/samoli)
 
-Released under the MIT license
+(c) [Pigment](http://www.thinkpigment.com) Released under the MIT license
     
