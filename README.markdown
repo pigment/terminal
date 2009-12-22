@@ -36,6 +36,7 @@ Shell commands
     $ nt  (new tab in current dir)
     $ c   (clear)
     $ p   (pwd)
+    $ m   (mate .)
     
 Git commands
 
