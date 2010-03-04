@@ -33,6 +33,7 @@ Shell commands
     $ l   (ls -aFhlG')
     $ ..  (cd ..)
     $ ... (cd ../..)
+    $ -   (cd - or change to previous directory)
     $ nt  (new tab in current dir)
     $ c   (clear)
     $ p   (pwd)
