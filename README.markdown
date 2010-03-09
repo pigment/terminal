@@ -11,17 +11,9 @@ Clone in to your home directory
     $ cd
     $ git clone git://github.com/pigment/terminal.git
 
-Edit ~/.bash_profile - If you use textmate:
+Add to ~/.bash_profile
 
-    $ mate ~/.bash_profile
-
-Otherwise:
-
-    $ nano ~/.bash_profile
-    
-Now add this line at the end and save:
-
-    source ~/terminal/all.sh
+    $ echo "source ~/terminal/all.sh" >> ~/.bash_profile
 
 Restart your terminal to activate changes.
 
