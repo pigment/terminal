@@ -45,7 +45,7 @@ Rails commands
     $ rt (rake test)
     $ rtu (rake test:units)
     $ rtf (rake test:functionals)
-    $ rtu (rake test:units)
+    $ rti (rake test:integration)
     $ cuke (cucumber)
 
 Contributors
