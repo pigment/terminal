@@ -33,9 +33,9 @@ Shell commands
     
 Git commands
 
-    $ gp  (git pull)
+    $ gp  (git pull --rebase)
     $ gu  (git push)
-    $ gpp (git pull && git push)
+    $ gpp (git pull --rebase && git push)
     
 Rails commands
 
