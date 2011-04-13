@@ -55,6 +55,7 @@ Contributors
 [Joff Williams](http://github.com/joffw)
 [Simon Jamie](http://github.com/fingermouse)
 [Sam Oliver](http://github.com/samoli)
+[Jacob Swanner](http://github.com/jswanner)
 
 (c) [Pigment](http://www.thinkpigment.com) Released under the MIT license
     
