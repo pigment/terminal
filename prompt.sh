@@ -12,8 +12,12 @@ rvm_info() {
     declare -a ruby_version_parts
     ruby_version_parts=(`echo ${version_string} | tr "-" " "`)
     ruby_version_short=${ruby_version_parts[0]}${ruby_version_parts[1]}
-
-    echo " "$ruby_version_short"@"$gemset;
+    
+    if [ ${ruby_version} == ${gemset} ]; then
+      echo " "$ruby_version_short
+    else
+      echo " "$ruby_version_short"@"$gemset;
+    fi
   fi
 }
 
